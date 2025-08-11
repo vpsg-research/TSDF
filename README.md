@@ -17,6 +17,10 @@
 
 This framework introduces a robust solution addressing the limitations of existing active defenses against Deepfake manipulation. By generating a carefully optimized, imperceptible watermark, this framework operates on a two-stage defense principle of "Interruption" and "Poisoning." It not only degrades the quality of immediate forgery attempts but also critically undermines an attacker's ability to mount adaptive attacks via retraining.
 
+## TODO
+- [x] project page released
+- [ ] release all code
+
 ## Table of Contents
 - [Key Features](#key-features)
 - [Framework Overview](#framework-overview)

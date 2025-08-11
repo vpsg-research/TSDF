@@ -129,7 +129,7 @@ If you use the code or ideas from this project in your research, please cite our
 @article{Zheng2025Boosting,
   title={Boosting Active Defense Persistence: A Two-Stage Defense Framework Combining Interruption And Poisoning Against Deepfake},
   author={Hongrui Zheng, Yuezun Li, Liejun Wang, Yunfeng Diao, Zhiqing Guo},
-  journal={Journal Name},
+  journal={arxiv},
   year={2025}
 }
 ```

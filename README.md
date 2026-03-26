@@ -138,12 +138,12 @@ python train.py
 
 ## 🎨 Visualization Results
 
-<div align="center"> <img width="1000" alt="Visualization of key modules" src="demo_file/image3.png"> </div>
+<div align="center"> <img width="1000" alt="Visualization of interruption effect" src="demo_file/image3.png"> </div>
 
 > **Fig. 3: Visual comparison of the interruption effect.**
 ---
 
-<div align="center"> <img width="1000" alt="Visualization of key modules" src="demo_file/image4.png"> </div>
+<div align="center"> <img width="1000" alt="Visualization of poisoning effect" src="demo_file/image4.png"> </div>
 
 > **Fig. 4: Face detection results before and after being perturbed.**
 ---

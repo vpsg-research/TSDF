@@ -20,16 +20,17 @@
 
 
 ## 📆Table of Contents
-- [Introduction]
-- [Overview]
-- [Requirements]
-- [Installation]
-- [Usage]
+- [📖Introduction]
+- [🧩Overview]
+- [🧬Requirements]
+- [💻Installation]
+- [🗂️Usage]
   - [Dataset Preparation]
   - [Stage 1: Training the Interruption Perturbation]
   - [Stage 2: Training the Poisoning Perturbation]
-- [Citation]
-- [License]
+- [🎨 Visualization Results]
+- [✒️Citation]
+- [📜License]
 
 <br>
 
@@ -102,7 +103,7 @@ bash download.sh celeba
 
 After downloading, ensure that the `/celeba` directory contains the `img_align_celeba` folder and the `list_attr_celeba.txt` file.
 
-## 🚀 Training
+### 🚀 Training
  **Stage 1:** Training the Interruption Perturbation
 
 The goal of this stage is to train the interruption component that can instantly disrupt Deepfake outputs.

@@ -98,7 +98,7 @@ cd stargan
 bash download.sh celeba
 ```
 
-After downloading, ensure that the `stargan/data/celeba` directory contains the `img_align_celeba` folder and the `list_attr_celeba.txt` file.
+After downloading, ensure that the `/celeba` directory contains the `img_align_celeba` folder and the `list_attr_celeba.txt` file.
 
 ## 🚀 Training
  **Stage 1:** Training the Interruption Perturbation

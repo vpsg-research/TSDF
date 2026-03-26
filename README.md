@@ -7,12 +7,20 @@
 <!-- <a href="CR_LINK"><img src="https://img.shields.io/badge/Camera Ready-<PDF>-green.svg" alt="Camera Ready"></a> -->
 </div>
 
-## 🔥 News
+## 📢 News
 * **[2026-03]** Our paper was accepted to the IEEE Transactions on Information Forensics and Security **(TIFS)**!  🎉
+* **[2026-03]** The code are being organized and will be released shortly. Please star this repo for updates!
+
+## ✨ Highlights
+
+* **⚠️Two-Stage Active Defense**: Innovatively combines "Immediate Interruption" and "Poisoning" to provide both real-time and long-term protection.
+* **🛡️Imperceptible Watermark**: The generated protective perturbation is visually imperceptible, ensuring the usability and aesthetic quality of the original images.
+* **🚀Resilience to Adaptive Attacks**: By corrupting the training process with poisoned data, it effectively prevents attackers from using protected images to retrain or fine-tune their generative models.
+* **📻Broad Effectiveness**: The framework's efficacy has been demonstrated through comprehensive evaluations against an ensemble of widely-used generative models, such as StarGAN, AttentionGAN, HiSD, and AttGAN.
+
 
 ## 📆Table of Contents
 - [Introduction]
-- [Key Features]
 - [Overview]
 - [Requirements]
 - [Installation]
@@ -34,12 +42,6 @@ This is the official repository for the TIFS 2026 paper *"[Boosting Active Defen
 
 > **Fig. 1: Illustration of an interruption-based defense and its failure to retrain.**  The lower path demonstrates an effective interruption process, where protected face data leads to a distorted output from the deepfake model. The upper path illustrates a critical flaw in this interruption-only defense. Attackers can bypass the defense by retraining their model on the protected images. This adaptation makes the model immune to the interruption, ultimately causing the defense to fail.
 
-## ✨ Key Features
-
-* **Two-Stage Active Defense**: Innovatively combines "Immediate Interruption" and "Delayed Poisoning" to provide both real-time and long-term protection.
-* **Imperceptible Watermark**: The generated protective perturbation is visually imperceptible, ensuring the usability and aesthetic quality of the original images.
-* **Resilience to Adaptive Attacks**: By corrupting the training process with poisoned data, it effectively prevents attackers from using protected images to retrain or fine-tune their generative models.
-* **Broad Effectiveness**: The framework's efficacy has been demonstrated through comprehensive evaluations against an ensemble of widely-used generative models, such as StarGAN, AttentionGAN, HiSD, and AttGAN.
 
 ## 🧩 Overview
 

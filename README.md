@@ -121,8 +121,8 @@ python train.py
 
 After obtaining an optimized interruption perturbation, this stage trains the data poisoning component for persistent defense.
 
-**Configuration**: In the training script or a config file, set `do_poison = True`.
-**Training Steps**: Set the desired number of training steps (e.g., `poisoned_steps`).
+* **Configuration**: In the training script or a config file, set `do_poison = True`.
+* **Training Steps**: Set the desired number of training steps (e.g., `poisoned_steps`).
 
 ```bash
 # Ensure do_poison is set to True in the configuration

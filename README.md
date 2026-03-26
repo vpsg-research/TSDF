@@ -44,11 +44,9 @@ This is the official repository for the TIFS 2026 paper *"[Boosting Active Defen
   - [Dataset Preparation](#dataset-preparation)
   - [Stage 1: Training the Interruption Perturbation](#stage-1-training-the-interruption-perturbation)
   - [Stage 2: Training the Poisoning Perturbation](#stage-2-training-the-poisoning-perturbation)
-- [Results](#results)
-- [How to Cite](#how-to-cite)
+- [Citation](#how-to-cite)
 - [License](#license)
-- [Acknowledgements](#acknowledgements)
-- [Contact Us](#contact-us)
+
 
 ## Key Features
 

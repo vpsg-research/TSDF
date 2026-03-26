@@ -78,10 +78,10 @@ Our defense framework is composed of two core components: an Interruption Module
 1.  **Clone the repository**
     ```bash
     # The repository URL will be provided upon code release
-    git clone [https://github.com/vpsg-research/TSDF].
+    git clone [https://github.com/vpsg-research/TSDF.git].
     cd TSDF
     ```
-   
+
 
 2.  **Install dependencies**
     We recommend using a virtual environment (e.g., `conda`) to avoid package conflicts.

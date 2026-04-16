@@ -1,5 +1,5 @@
 <div align="center">
-<h1> Boosting Active Defense Persistence: A Two-Stage Defense Framework Combining Interruption And Poisoning Against Deepfake </h1>
+<h1> [TIFS'26] Boosting Active Defense Persistence: A Two-Stage Defense Framework Combining Interruption And Poisoning Against Deepfake </h1>
 </div>
 <div align="center">
 <br>
